@@ -53,9 +53,8 @@ Graph H2
 11  7 -> 8
 12  8 -> 9
 ```
-
-![Example graph_g1](./adjoint-graph-transform/img/graph_g1.png | width=200))
-![Example graph_h1](./adjoint-graph-transform/img/graph_h1.png | width=200))
+![Example graph_g1](./adjoint-graph-transform/img/graph_g1.png) 
+![Example graph_h1](./adjoint-graph-transform/img/graph_h1.png)
 
 ***
 
